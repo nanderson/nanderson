@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**nanderson/nanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Professional Projects
+- Director of Operations & Engineering at [Chargify](https://www.chargify.com)
+- [LinkedIn Profile](https://www.linkedin.com/in/nathanedwardanderson/)
 
-Here are some ideas to get you started:
+## Personal Projects
+- Home Automation
+- Mountain Biking
+- Cooking
+- Raising my 3 kids
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Info
+- [TaoOfFoo](http://taooffoo.com/)
+- [NathanAnderson](http://nathananderson.com)
+- [Facebook](https://www.facebook.com/nathan.edward.anderson)
+- [Instagram](https://www.instagram.com/mtman97/)
+- [Instagram - LumberNerd](https://www.instagram.com/thelumbernerd/)
+- [Twitter](https://twitter.com/mtman97)
+- [Strava](https://www.strava.com/athletes/29995631)
