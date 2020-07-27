@@ -11,8 +11,8 @@
 - Raising my 3 kids
 
 ## Contact Info
-- [TaoOfFoo](http://taooffoo.com/)
-- [NathanAnderson](http://nathananderson.com)
+- [TaoOfFoo](https://taooffoo.com/)
+- [NathanAnderson](https://nathananderson.com)
 - [Facebook](https://www.facebook.com/nathan.edward.anderson)
 - [Instagram](https://www.instagram.com/mtman97/)
 - [Instagram - LumberNerd](https://www.instagram.com/thelumbernerd/)
