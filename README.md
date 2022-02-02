@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Professional Projects
-- Director of Operations & Engineering at [Chargify](https://www.chargify.com)
+- VP DevOps & Software Engineering at [Chargify](https://www.chargify.com)
 - [LinkedIn Profile](https://www.linkedin.com/in/nathanedwardanderson/)
 
 ## Personal Projects
@@ -11,7 +11,6 @@
 - Raising my 3 kids
 
 ## Contact Info
-- [TaoOfFoo](https://taooffoo.com/)
 - [NathanAnderson](https://nathananderson.com)
 - [Facebook](https://www.facebook.com/nathan.edward.anderson)
 - [Instagram](https://www.instagram.com/mtman97/)
