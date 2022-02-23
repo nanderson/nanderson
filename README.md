@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ## Professional Projects
-- VP DevOps & Software Engineering at [Chargify](https://www.chargify.com)
+- CTO at [Jungle Disk](https://www.jungledisk.com/)
+- Former VP DevOps & Software Engineering at [Chargify](https://www.chargify.com)
 - [LinkedIn Profile](https://www.linkedin.com/in/nathanedwardanderson/)
 
 ## Personal Projects
