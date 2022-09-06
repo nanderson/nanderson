@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Professional Projects
-- CTO at [Jungle Disk](https://www.jungledisk.com/)
+- CTO at [Cyber Fortress](https://www.cyberfortress.com/)
 - Former VP DevOps & Software Engineering at [Chargify](https://www.chargify.com)
 - [LinkedIn Profile](https://www.linkedin.com/in/nathanedwardanderson/)
 
