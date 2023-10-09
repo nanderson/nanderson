@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-## Professional Projects
-- CTO at [Cyber Fortress](https://www.cyberfortress.com/)
+## Professional 
+- VP software Engineering [SWIVEL](https://getswivel.io/), part of [SWBC](https://swbc.com/)
+- Former CTO at [Cyber Fortress](https://www.cyberfortress.com/)
 - Former VP DevOps & Software Engineering at [Chargify](https://www.chargify.com)
+- Former wearer of many hats at [Rackspace](https://rackspace.com)
 - [LinkedIn Profile](https://www.linkedin.com/in/nathanedwardanderson/)
 
 ## Personal Projects
@@ -10,9 +12,11 @@
 - Mountain Biking
 - Cooking
 - Raising my 3 kids
+- Traveling
 
 ## Contact Info
 - [NathanAnderson](https://nathananderson.com)
+- [LinkedIn](https://www.linkedin.com/in/nathanedwardanderson/)
 - [Facebook](https://www.facebook.com/nathan.edward.anderson)
 - [Instagram](https://www.instagram.com/mtman97/)
 - [Instagram - LumberNerd](https://www.instagram.com/thelumbernerd/)
