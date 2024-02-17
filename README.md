@@ -22,3 +22,5 @@
 - [Instagram - LumberNerd](https://www.instagram.com/thelumbernerd/)
 - [Fediverse](https://hachyderm.io/@nathananderson)
 - [Strava](https://www.strava.com/athletes/29995631)
+- [SubStack](https://substack.com/@nathanandersoncto)
+- [Medium](https://medium.com/@NathanAndersonCTO)
