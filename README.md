@@ -21,6 +21,7 @@
 - [LinkedIn](https://www.linkedin.com/in/nathanedwardanderson/)
 - [Facebook](https://www.facebook.com/nathan.edward.anderson)
 - [Instagram](https://www.instagram.com/mtman97/)
+- [Instagram - Business](https://www.instagram.com/nate.cto/)
 - [Instagram - LumberNerd](https://www.instagram.com/thelumbernerd/)
 - [Fediverse](https://hachyderm.io/@nathananderson)
 - [Strava](https://www.strava.com/athletes/29995631)
