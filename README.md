@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-## Professional 
-- VP software Engineering [SWIVEL](https://getswivel.io/), part of [SWBC](https://swbc.com/)
+## Professional
+- Founder, [Nathan Anderson Consulting, LLC](https://nathananderson.com)
+- Former VP software Engineering [SWIVEL](https://getswivel.io/), part of [SWBC](https://swbc.com/)
 - Former CTO at [Cyber Fortress](https://www.cyberfortress.com/)
 - Former VP DevOps & Software Engineering at [Chargify](https://www.chargify.com)
 - Former wearer of many hats at [Rackspace](https://rackspace.com)
