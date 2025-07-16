@@ -1,12 +1,13 @@
 # Hi there 👋
 
 ## Professional
+- Co-founder, CTO [Tú TeleDoc](https://tuteledoc.com/)
 - Founder, [Nathan Anderson Consulting, LLC](https://nathananderson.com)
-- Former VP software Engineering [SWIVEL](https://getswivel.io/), part of [SWBC](https://swbc.com/)
+- Former VP Software Engineering [SWIVEL](https://getswivel.io/), part of [SWBC](https://swbc.com/)
 - Former CTO at [Cyber Fortress](https://www.cyberfortress.com/)
 - Former VP DevOps & Software Engineering at [Chargify](https://www.chargify.com)
 - Former Director of Software Engineering at [ClearDATA](https://cleardata.com)
-- Former wearer of many hats at [Rackspace](https://rackspace.com)
+- Former wearer of many hats (Software Developer, Dev Manager, Product Manager, Director of Product) at [Rackspace](https://rackspace.com)
 - [LinkedIn Profile](https://www.linkedin.com/in/nathanedwardanderson/)
 
 ## Personal Projects
